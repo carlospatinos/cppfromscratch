@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Printing the location of a function and a variable
 void test(){
     printf("Hello test");
 }
